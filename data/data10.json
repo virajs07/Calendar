@@ -1,0 +1,62 @@
+[
+  {
+    "index": 0,
+    "name": "Collier Mckee",
+    "gender": "male",
+    "dob": "Fri May 28 1982 07:11:23 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 1,
+    "name": "Good Lindsey",
+    "gender": "male",
+    "dob": "Tue Dec 14 1976 23:15:02 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 2,
+    "name": "Yang Sharpe",
+    "gender": "male",
+    "dob": "Thu Apr 17 1997 18:41:51 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 3,
+    "name": "Nettie Gillespie",
+    "gender": "female",
+    "dob": "Fri Feb 03 1984 18:44:39 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 4,
+    "name": "Bridget Walker",
+    "gender": "female",
+    "dob": "Fri Dec 31 1976 17:58:42 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 5,
+    "name": "Ingrid Oneill",
+    "gender": "female",
+    "dob": "Tue Jan 30 1990 06:36:33 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 6,
+    "name": "Dianna Barrett",
+    "gender": "female",
+    "dob": "Wed Feb 09 1977 15:49:58 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 7,
+    "name": "Cheri Fischer",
+    "gender": "female",
+    "dob": "Sat Apr 18 1992 13:15:11 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 8,
+    "name": "Duran Stout",
+    "gender": "male",
+    "dob": "Sun Jun 21 1987 12:47:32 GMT+0530 (India Standard Time)"
+  },
+  {
+    "index": 9,
+    "name": "Huff Pitts",
+    "gender": "male",
+    "dob": "Sun Jul 03 1988 11:45:57 GMT+0530 (India Standard Time)"
+  }
+]
